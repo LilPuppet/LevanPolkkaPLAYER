@@ -1,7 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AVISO
+Por favor, deixe o volume do seu dispositivo em 30%, a idéia do projeto é reproduzir uma música.
+O projeto por enquanto tem três botões: STOP- Para a música e reinicia; PLAY- Toca a música; PAUSE- Pausa a música, se apertar PLAY depois de PAUSE, a musica volta de onde parou.
 
-## Getting Started
-First, make sure that you have node.js installed and to run the required instalations:
+## Começando
+Esse é um projeto [Next.js](https://nextjs.org/) usando o bootstrap [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Primeiro, você precisa ter o node.js instalado e adicionar essas instalações:
 ```bash
 npm install
 # or
@@ -9,7 +13,7 @@ yarn install
 # AND
 npm install react-icons
 ```
-Run the development server:
+Para rodar o ambiente de desenvolvimento:
 
 ```bash
 npm run dev
@@ -21,20 +25,18 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Você pode editar a página modificando `app/page.tsx`. A página irá se atualizar automaticamente conforme você salva seu progresso.
+Esse projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para otimizar e carregar a fonte Inter, uma fonte do Google, automaticamente.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Mais sobre Next.js
 
-## Learn More
+Veja nesses links:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API. aprenda mais sobre Next.js, sua API e funcionalidades.
+- [Learn Next.js](https://nextjs.org/learn) - um tutorial interativo de Next.js
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Você pode checar [the Next.js GitHub repository](https://github.com/vercel/next.js/) - agradeço pela paciência e adoraria novas sugestões para meu pequeno estudo!
 
 ## Deploy on Vercel
 
