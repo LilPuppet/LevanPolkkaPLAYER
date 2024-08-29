@@ -33,13 +33,13 @@ Esse projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optim
 ## Mais sobre Next.js
 
 Veja nesses links:
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API. aprenda mais sobre Next.js, sua API e funcionalidades.
+- [Next.js Documentation](https://nextjs.org/docs) - aprenda mais sobre Next.js, sua API e funcionalidades.
 - [Learn Next.js](https://nextjs.org/learn) - um tutorial interativo de Next.js
 
 Você pode checar [the Next.js GitHub repository](https://github.com/vercel/next.js/) - agradeço pela paciência e adoraria novas sugestões para meu pequeno estudo!
 
-## Deploy on Vercel
+## Deploy no Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Uma forma mais fácil de dar deploy no projeto é usando [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), criado pelos mesmos desevolvedores do Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Cheque [Next.js deployment documentation](https://nextjs.org/docs/deployment) para mais detalhes.
